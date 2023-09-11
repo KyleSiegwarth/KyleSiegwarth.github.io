@@ -1,0 +1,51 @@
+/* Main page stype sheet*/
+
+*{
+    box-sizing: border-box;
+   /* background-color: beige; */
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+nav{
+    height: 1%;
+    background-color: tan;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem calc((80vw - 1300px) / 2);
+    border-radius: 12px;
+}
+
+header{
+    background-color: powderblue;
+}
+
+
+.home{
+    color: black;
+    font-size: x-large;
+    background-color: orange;
+    border-radius: 8px;
+}
+
+
+
+body{
+    background-color: red;
+    color: seagreen;
+}
+
+
+
+
+footer{
+    padding: 15px;
+    background-color: green;
+    justify-content: space-between;
+    align-content: end;
+    align-items: center;
+}
+
