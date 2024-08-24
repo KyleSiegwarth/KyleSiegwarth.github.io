@@ -19,6 +19,14 @@ nav{
     border-radius: 12px;
 }
 
+.nav-items{
+    background-color: teal;
+    border-radius: 8px;
+}
+
+
+
+
 header{
     background-color: powderblue;
 }
@@ -47,5 +55,6 @@ footer{
     justify-content: space-between;
     align-content: end;
     align-items: center;
+    border-radius: 12px;
 }
 
